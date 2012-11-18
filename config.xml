@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+    <widget xmlns = "http://www.w3.org/ns/widgets"
+        xmlns:gap = "http://phonegap.com/ns/1.0"
+        id        = "com.phonegap.cdElisa"
+        versionCode="10" 
+        version   = "1.0.0">
+
+    <!-- versionCode is optional and Android only -->
+
+    <name>CD Elisa</name>
+
+    <description>
+        Escucha en tu móvil las canciones del primer CD de la cantante asturiana Elisa.
+    </description>
+
+    <author href="https://www.elisamendez.com" email="manuel@elisamendez.com">
+        Manuel Viña
+    </author>
+
+</widget>
